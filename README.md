@@ -1,1 +1,10 @@
-neste projeto criei uma home page responsiva do site Codar.
+<h1 style='font-size: 40px'>Music Library</h1>
+<p style='font-size: 20px'>The codar project is a challenge from the DevChallenge website, aiming to create a fictitious website with a layout adaptable to different screens</p>
+<p style='font-size: 20px'>The project has two versions, a mobile version and a desktop version.</p>
+<p align="center">
+    <img src="assets/web/codardesktop.gif"/>
+    <img src="assets/web/codarmobile.gif"/>
+<h2 style='font-size: 25px'>the following technologies were used for the development of the application:</h2>
+<p style='font-size: 15px'>- HTML5</p>
+<p style='font-size: 15px'>- CSS3</p>
+<p style='font-size: 15px'>- Javascript</p>
